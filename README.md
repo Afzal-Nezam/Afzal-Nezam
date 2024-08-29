@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Afzal-Nezam
-- 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning GCP.
-- 📫 How to reach me - through mail and X
+- 👀 I’m interested in Learning.
+- 🌱 I’m currently learning Cloud and Networking.
+- 📫 How to reach me - mail and X
 - 😄 Pronouns: He
 - ⚡ Fun fact: No Fun
 
